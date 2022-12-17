@@ -42,7 +42,6 @@ body {
   list-style: none;
   font-size: large;
   margin-left: 450px;
-  min-width: 80%;
 }
 .nav-barre #nav li {
   display: inline;
